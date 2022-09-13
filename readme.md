@@ -11,5 +11,4 @@ This is basically a one pager template project made in HTML/CSS with creativity 
   - CSS Absolute Positioning
 
  
- !! And Note that I haven't made it responsive it only works in laptop screen if you are useing desktop it won't work as the whole project is based on absolute positioning.
  
